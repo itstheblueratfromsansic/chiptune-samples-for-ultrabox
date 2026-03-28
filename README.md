@@ -1,7 +1,7 @@
 # Samples
 This is a small project made for making chiptune style music.
 
-It has the already made urls wich you need for use in ultrabox.
+It has the already made urls which you need for use in ultrabox.
 
 I also have the samples in as actual downloadable audio files if you dont want to use ultrabox.
 their in the audio files branch.
